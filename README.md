@@ -1,7 +1,7 @@
 # car depreciation
 
 <p align="center">
-  <img src="broombroom.PNG" width="350"/>
+  <img src="broombroom.png" width="350"/>
 </p>
 R script using rvest library to scrape car data
 
