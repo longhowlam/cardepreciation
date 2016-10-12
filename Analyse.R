@@ -12,6 +12,8 @@ library(forcats)
 ###############################################################################################
 ##  analysis of car data
 
+AllCars = readRDS( "AllCarsGasPedaal.Rds")
+
 ### simple counts of make and model
 
 AllCounts = AllCars %>%
